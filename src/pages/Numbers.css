@@ -1,0 +1,23 @@
+.view_details{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+}
+.table thead th {
+    background-color: black;
+  }
+  .brFloq {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 18px;
+}
+.gocYik {
+    display: flex;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    width: 100%;
+     background-color: rgb(102 227 110) !important;
+    min-height: 52px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}

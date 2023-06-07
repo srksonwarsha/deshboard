@@ -1,0 +1,76 @@
+.search{
+    width: 25%;
+}
+.main_info{
+    width: 40%;
+    border: 1px solid rgba(0, 0, 0, 0.496);
+    border-radius: 5px;
+    /* padding: 2%; */
+    margin-top: 2%;
+    /* border: 5px red;
+    background-color: black; */
+}
+.second_card{
+    display: flex;
+    justify-content: space-between;
+    border-bottom-width:1px;
+    border-bottom-color:rgba(0, 0, 0, 0.496);
+    border-bottom-style: solid;
+    width: 100%;
+    padding: 2%;
+}
+.main_card{
+   padding: 2%;
+}
+.main_card + .p {
+    font-size: large;
+}
+.button{
+    height: 40px;
+}
+.Insights_main{
+    width: 100%;
+    
+    border: 1px solid rgba(0, 0, 0, 0.131);
+    border-radius: 5px;
+    /* padding: 2%; */
+    margin-top: 2%;
+}
+.Insights{
+    padding: 2%;
+    justify-content: center;
+    display: flex;
+    justify-content:space-between;
+    align-content: center;
+    border-bottom-width:1px;
+    border-bottom-color:rgba(0, 0, 0, 0.131);
+    border-bottom-style: solid;
+}
+.date_time{
+    padding: 2%;
+}
+.call_card{
+    width: 100%;
+    /* margin-bottom: 5%; */
+    border-bottom-width:1px;
+    border-bottom-color:rgba(0, 0, 0, 0.131);
+    border-bottom-style: solid;
+}
+.call{
+    width: 70%;
+}
+.call_info{
+    padding: 2%;
+    display: flex;
+    justify-content:space-between;
+   
+}
+.Customber{
+    width: 100%;
+    margin-bottom: 5%;
+}
+.view_detailsh{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

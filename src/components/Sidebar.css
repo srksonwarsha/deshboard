@@ -1,0 +1,44 @@
+.heade_icon{
+    width: 17vw;
+    display: flex;
+    column-gap: 10%;
+    align-items: center;
+}
+.comman{
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    position: sticky;   
+    top: 0; 
+    z-index: 10;
+    background: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.247);
+
+}
+.top_section{
+    display: flex;
+    align-items:center;
+    padding:20px 15px;
+    /* width: 100%; */
+}
+.userinfo{
+    display: flex;
+}
+.Logout_btn{
+    color: black;
+    border: 1px solid blue;
+    background-color: white;
+    border-radius: 20px;
+    width: 75px;
+    height: 35px;
+}
+.Logout_btn:hover{
+background-color: blue;
+color: white;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    /* right: -6%; */
+    margin-left: 10%;
+}
